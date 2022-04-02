@@ -52,12 +52,10 @@ h1 {
   height: 250px;
 }
 
-. . .
-
 /* Color and Images for Project Containers  */
 
 .project-1 {
-  background: url('../images/project-left.jpeg');
+  background: url('../img/project-right.jpeg');
   background-size: cover;
 }
 
@@ -86,11 +84,37 @@ h1 {
 }
 
 .project-8 {
-  background: url('../images/project-right.jpeg');
+  background: url('../img/project-left.jpeg');
   background-size: cover;
 }
 
 .project-text {
   text-align:center;
   font-size:50px;
+}
+
+/* Hover classes for individual project boxes */
+
+.project-2:hover {
+  background-color:#FEDE00;
+}
+
+.project-3:hover {
+   background-color: #FEDE00;
+}
+
+.project-4:hover {
+   background-color: #FEDE00;
+}
+
+.project-5:hover {
+   background-color: #FEDE00;
+}
+
+.project-6:hover {
+   background-color: #FEDE00;
+}
+
+.project-7:hover {
+   background-color: #FEDE00;
 }
