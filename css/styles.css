@@ -17,7 +17,7 @@ h1 {
   }
 
   h2 {
-    color: red;
+    color: rgb(12, 0, 0);
     font-size: 40px;
   }
   
@@ -68,7 +68,7 @@ h1 {
 }
 
 .project-4 {
-  background-color:#112d4e;
+  background-color:#ffffff;
 }
 
 .project-5 {
